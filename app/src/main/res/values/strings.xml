@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SERENE</string>
+    <string name="welcome_to_serene">   WELCOME TO YOUR FRIENDLY SPACE, SERENE </string>
+    <string name="not_yet_registered_sign_up_now">Not yet registered? Sign Up Now</string>
+    <string name="login">Login</string>
+    <string name="session">Session</string>
+    <string name="therepy">Therepy</string>
+    <string name="ai_chatbot">AI Chatbot</string>
+    <string name="recommendations">Recommendations</string>
+    <string name="bot_page">BOT PAGE</string>
+    <string name="recom">Recommendations</string>
+</resources>
